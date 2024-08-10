@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\promedio_serie_de_numeros\promedio_serie_de_numeros\bin\Debug\promedio_serie_de_numeros.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\promedio_serie_de_numeros\promedio_serie_de_numeros\bin\Debug\promedio_serie_de_numeros.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\promedio_serie_de_numeros\promedio_serie_de_numeros\bin\Debug\promedio_serie_de_numeros.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\promedio_serie_de_numeros\promedio_serie_de_numeros\obj\Debug\promedio_serie_de_numeros.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\promedio_serie_de_numeros\promedio_serie_de_numeros\obj\Debug\promedio_serie_de_numeros.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\promedio_serie_de_numeros\promedio_serie_de_numeros\obj\Debug\promedio_serie_de_numeros.pdb
