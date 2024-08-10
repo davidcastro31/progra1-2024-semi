@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\tipos_de_datos\tipos_de_datos\bin\Debug\tipos_de_datos.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\tipos_de_datos\tipos_de_datos\bin\Debug\tipos_de_datos.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\tipos_de_datos\tipos_de_datos\bin\Debug\tipos_de_datos.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\tipos_de_datos\tipos_de_datos\obj\Debug\tipos_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\tipos_de_datos\tipos_de_datos\obj\Debug\tipos_de_datos.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\tipos_de_datos\tipos_de_datos\obj\Debug\tipos_de_datos.pdb
