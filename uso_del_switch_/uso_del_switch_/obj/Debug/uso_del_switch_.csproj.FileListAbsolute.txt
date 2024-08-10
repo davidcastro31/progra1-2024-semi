@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_del_switch_\uso_del_switch_\bin\Debug\uso_del_switch_.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_del_switch_\uso_del_switch_\bin\Debug\uso_del_switch_.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_del_switch_\uso_del_switch_\bin\Debug\uso_del_switch_.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_del_switch_\uso_del_switch_\obj\Debug\uso_del_switch_.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_del_switch_\uso_del_switch_\obj\Debug\uso_del_switch_.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_del_switch_\uso_del_switch_\obj\Debug\uso_del_switch_.pdb
