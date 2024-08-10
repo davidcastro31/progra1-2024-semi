@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma-de-dos-numeros-introducido-por-el-usuario\suma-de-dos-numeros-introducido-por-el-usuario\bin\Debug\suma-de-dos-numeros-introducido-por-el-usuario.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma-de-dos-numeros-introducido-por-el-usuario\suma-de-dos-numeros-introducido-por-el-usuario\bin\Debug\suma-de-dos-numeros-introducido-por-el-usuario.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma-de-dos-numeros-introducido-por-el-usuario\suma-de-dos-numeros-introducido-por-el-usuario\bin\Debug\suma-de-dos-numeros-introducido-por-el-usuario.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma-de-dos-numeros-introducido-por-el-usuario\suma-de-dos-numeros-introducido-por-el-usuario\obj\Debug\suma-de-dos-numeros-introducido-por-el-usuario.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma-de-dos-numeros-introducido-por-el-usuario\suma-de-dos-numeros-introducido-por-el-usuario\obj\Debug\suma-de-dos-numeros-introducido-por-el-usuario.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma-de-dos-numeros-introducido-por-el-usuario\suma-de-dos-numeros-introducido-por-el-usuario\obj\Debug\suma-de-dos-numeros-introducido-por-el-usuario.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma-de-dos-numeros-introducido-por-el-usuario\suma-de-dos-numeros-introducido-por-el-usuario\obj\Debug\suma-de-dos-numeros-introducido-por-el-usuario.pdb
