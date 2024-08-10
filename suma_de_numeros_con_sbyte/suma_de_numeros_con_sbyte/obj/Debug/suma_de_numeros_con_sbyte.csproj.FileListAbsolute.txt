@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma_de_numeros_con_sbyte\suma_de_numeros_con_sbyte\bin\Debug\suma_de_numeros_con_sbyte.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma_de_numeros_con_sbyte\suma_de_numeros_con_sbyte\bin\Debug\suma_de_numeros_con_sbyte.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma_de_numeros_con_sbyte\suma_de_numeros_con_sbyte\bin\Debug\suma_de_numeros_con_sbyte.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma_de_numeros_con_sbyte\suma_de_numeros_con_sbyte\obj\Debug\suma_de_numeros_con_sbyte.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma_de_numeros_con_sbyte\suma_de_numeros_con_sbyte\obj\Debug\suma_de_numeros_con_sbyte.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\suma_de_numeros_con_sbyte\suma_de_numeros_con_sbyte\obj\Debug\suma_de_numeros_con_sbyte.pdb
