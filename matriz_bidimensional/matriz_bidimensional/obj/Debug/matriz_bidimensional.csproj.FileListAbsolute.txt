@@ -1,0 +1,6 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_bidimensional\matriz_bidimensional\bin\Debug\matriz_bidimensional.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_bidimensional\matriz_bidimensional\bin\Debug\matriz_bidimensional.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_bidimensional\matriz_bidimensional\bin\Debug\matriz_bidimensional.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_bidimensional\matriz_bidimensional\obj\Debug\matriz_bidimensional.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_bidimensional\matriz_bidimensional\obj\Debug\matriz_bidimensional.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_bidimensional\matriz_bidimensional\obj\Debug\matriz_bidimensional.pdb
