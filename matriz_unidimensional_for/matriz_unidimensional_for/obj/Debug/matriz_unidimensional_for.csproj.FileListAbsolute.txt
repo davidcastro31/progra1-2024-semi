@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_unidimensional_for\matriz_unidimensional_for\bin\Debug\matriz_unidimensional_for.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_unidimensional_for\matriz_unidimensional_for\bin\Debug\matriz_unidimensional_for.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_unidimensional_for\matriz_unidimensional_for\bin\Debug\matriz_unidimensional_for.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_unidimensional_for\matriz_unidimensional_for\obj\Debug\matriz_unidimensional_for.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_unidimensional_for\matriz_unidimensional_for\obj\Debug\matriz_unidimensional_for.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_unidimensional_for\matriz_unidimensional_for\obj\Debug\matriz_unidimensional_for.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\matriz_unidimensional_for\matriz_unidimensional_for\obj\Debug\matriz_unidimensional_for.pdb
