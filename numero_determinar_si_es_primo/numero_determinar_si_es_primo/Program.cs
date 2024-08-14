@@ -4,25 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace numero_par_impar
+namespace numero_determinar_si_es_primo
 {
     class Program
     {
         static void Main(string[] args){
             //determinar si cada numero de la serie es primo.
 
-            int[] serie = new int[] { 5, 9, 4, 6, 3, 2, 7, 11,15,17,21 };
+            int[] serie = new int[] { 5, 9, 4, 6, 3, 2, 7, 11, 15, 17, 21 };
             foreach (int num in serie)
             {
                 int i = 1,
                     n = 0;
 
-                while(i<=num && n <= 2)
+                while (i <= num && n <= 2)
                 {
-                    if(num % i == 0)
+                    if (num % i == 0)
                     {
                         n++; //n=n+1
-                        
+
                     }
                     i++;//i=i+1
                 }
