@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\sueldo_deducciones_tablanueva\sueldo_deducciones_tablanueva\bin\Debug\sueldo_deducciones_tablanueva.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\sueldo_deducciones_tablanueva\sueldo_deducciones_tablanueva\bin\Debug\sueldo_deducciones_tablanueva.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\sueldo_deducciones_tablanueva\sueldo_deducciones_tablanueva\bin\Debug\sueldo_deducciones_tablanueva.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\sueldo_deducciones_tablanueva\sueldo_deducciones_tablanueva\obj\Debug\sueldo_deducciones_tablanueva.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\sueldo_deducciones_tablanueva\sueldo_deducciones_tablanueva\obj\Debug\sueldo_deducciones_tablanueva.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\sueldo_deducciones_tablanueva\sueldo_deducciones_tablanueva\obj\Debug\sueldo_deducciones_tablanueva.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\sueldo_deducciones_tablanueva\sueldo_deducciones_tablanueva\obj\Debug\sueldo_deducciones_tablanueva.pdb
