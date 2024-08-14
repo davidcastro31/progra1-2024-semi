@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\proyecto_fibonacci\proyecto_fibonacci\bin\Debug\proyecto_fibonacci.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\proyecto_fibonacci\proyecto_fibonacci\bin\Debug\proyecto_fibonacci.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\proyecto_fibonacci\proyecto_fibonacci\bin\Debug\proyecto_fibonacci.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\proyecto_fibonacci\proyecto_fibonacci\obj\Debug\proyecto_fibonacci.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\proyecto_fibonacci\proyecto_fibonacci\obj\Debug\proyecto_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\proyecto_fibonacci\proyecto_fibonacci\obj\Debug\proyecto_fibonacci.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\proyecto_fibonacci\proyecto_fibonacci\obj\Debug\proyecto_fibonacci.pdb
