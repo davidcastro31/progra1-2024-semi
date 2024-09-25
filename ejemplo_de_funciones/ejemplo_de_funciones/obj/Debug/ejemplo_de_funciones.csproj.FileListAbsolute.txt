@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\ejemplo_de_funciones\ejemplo_de_funciones\bin\Debug\ejemplo_de_funciones.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\ejemplo_de_funciones\ejemplo_de_funciones\bin\Debug\ejemplo_de_funciones.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\ejemplo_de_funciones\ejemplo_de_funciones\bin\Debug\ejemplo_de_funciones.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\ejemplo_de_funciones\ejemplo_de_funciones\obj\Debug\ejemplo_de_funciones.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\ejemplo_de_funciones\ejemplo_de_funciones\obj\Debug\ejemplo_de_funciones.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\ejemplo_de_funciones\ejemplo_de_funciones\obj\Debug\ejemplo_de_funciones.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\ejemplo_de_funciones\ejemplo_de_funciones\obj\Debug\ejemplo_de_funciones.pdb

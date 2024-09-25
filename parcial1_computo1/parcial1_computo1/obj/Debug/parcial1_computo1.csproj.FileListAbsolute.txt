@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\parcial1_computo1\parcial1_computo1\bin\Debug\parcial1_computo1.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\parcial1_computo1\parcial1_computo1\bin\Debug\parcial1_computo1.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\parcial1_computo1\parcial1_computo1\bin\Debug\parcial1_computo1.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\parcial1_computo1\parcial1_computo1\obj\Debug\parcial1_computo1.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\parcial1_computo1\parcial1_computo1\obj\Debug\parcial1_computo1.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\parcial1_computo1\parcial1_computo1\obj\Debug\parcial1_computo1.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\parcial1_computo1\parcial1_computo1\obj\Debug\parcial1_computo1.pdb
