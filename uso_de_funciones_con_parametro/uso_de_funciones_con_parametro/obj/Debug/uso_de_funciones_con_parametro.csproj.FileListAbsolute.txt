@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_de_funciones_con_parametro\uso_de_funciones_con_parametro\bin\Debug\uso_de_funciones_con_parametro.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_de_funciones_con_parametro\uso_de_funciones_con_parametro\bin\Debug\uso_de_funciones_con_parametro.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_de_funciones_con_parametro\uso_de_funciones_con_parametro\bin\Debug\uso_de_funciones_con_parametro.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_de_funciones_con_parametro\uso_de_funciones_con_parametro\obj\Debug\uso_de_funciones_con_parametro.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_de_funciones_con_parametro\uso_de_funciones_con_parametro\obj\Debug\uso_de_funciones_con_parametro.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_de_funciones_con_parametro\uso_de_funciones_con_parametro\obj\Debug\uso_de_funciones_con_parametro.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\uso_de_funciones_con_parametro\uso_de_funciones_con_parametro\obj\Debug\uso_de_funciones_con_parametro.pdb
