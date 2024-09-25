@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\encontrar_media_aritmetica\encontrar_media_aritmetica\bin\Debug\encontrar_media_aritmetica.exe.config
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\encontrar_media_aritmetica\encontrar_media_aritmetica\bin\Debug\encontrar_media_aritmetica.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\encontrar_media_aritmetica\encontrar_media_aritmetica\bin\Debug\encontrar_media_aritmetica.pdb
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\encontrar_media_aritmetica\encontrar_media_aritmetica\obj\Debug\encontrar_media_aritmetica.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\encontrar_media_aritmetica\encontrar_media_aritmetica\obj\Debug\encontrar_media_aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\encontrar_media_aritmetica\encontrar_media_aritmetica\obj\Debug\encontrar_media_aritmetica.exe
+C:\Users\David\Downloads\progra1-2024-semi-definitivo\encontrar_media_aritmetica\encontrar_media_aritmetica\obj\Debug\encontrar_media_aritmetica.pdb
